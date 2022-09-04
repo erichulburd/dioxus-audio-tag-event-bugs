@@ -3,7 +3,7 @@
 This is a simple reproducible web app that demonstrates some issues with Dioxus's `audio` HTML tag event support.
 
 * `trunk serve` from the root.
-* navigate to http://http://127.0.0.1:8080/
+* navigate to http://127.0.0.1:8080/
 * hit the play button
 
 ## Desired Behavior
